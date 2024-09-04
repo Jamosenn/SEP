@@ -1,0 +1,26 @@
+{
+  "name": "influx-ug10",
+  "version": "1.0.0",
+  "description": "Project for group InfluxUI-UG10",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node esbuild.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.cs.adelaide.edu.au/INFLUXUI-ATYSYS/InfluxUI-UG10"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esbuild-sass-plugin": "^3.3.1",
+    "nvm": "0.0.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "esbuild": "^0.23.1"
+  }
+}

@@ -1,3 +1,1 @@
-# SEP
-
-urrrrr
+Project for group InfluxUI-UG10
